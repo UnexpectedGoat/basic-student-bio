@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 style.css
 body {
     padding: 0;
@@ -15,3 +16,22 @@ body {
     color: #333300;
     font-style: oblique;
    }
+=======
+style.css
+body {
+    padding: 0;
+    margin: 0;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    background-color: coral;
+   }
+
+   h1 {
+    color: sal;
+    text-align: center;
+   }
+
+   p {
+    color: #333300;
+    font-style: oblique;
+   }
+>>>>>>> 9190897a011976b20895c4884509eae56b734817
